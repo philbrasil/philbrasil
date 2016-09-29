@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Chamada para contribuições"
-date:   2016-03-30 19:45:31 +0530
-categories: phil
+date:   2013-07-27 19:45:31 +0530
+categories: blog
 ---
 O portal PhilBrasil – <a href="http://philbrasil.com.br">http://philbrasil.com.br</a> – convida a comunidade filosófica a contribuir com textos de apresentação para as categorias do site. Há várias categorias e subcategorias: metafísica, ética, verdade, filosofia da mente, filosofia política, filosofia da ciência, causalidade etc, e novas categorias podem ser propostas. O propósito dos textos de apresentação é oferecer uma introdução clara e sucinta ao assunto e sua literatura, que possa servir de orientação para iniciantes no tópico em questão. Esperamos com isso ter uma ferramenta útil para o ensino e a pesquisa em filosofia no Brasil.
 

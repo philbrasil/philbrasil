@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Estatísticas PhilBrasil: 2013 – 3º Trim."
-date:   2016-03-30 19:45:31 +0530
-categories: phil
+date:   2013-10-04 19:45:31 +0530
+categories: blog
 ---
 Eis as estatísticas do 3º trimestre de 2013 do PhilBrasil:
 <table border="0" cellspacing="0"><colgroup width="92"></colgroup> <colgroup width="136"></colgroup> <colgroup width="85"></colgroup>

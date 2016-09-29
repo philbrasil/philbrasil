@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Estatísticas PhilBrasil: 2013 - 2º Trim."
-date:   2016-03-30 19:45:31 +0530
-categories: phil
+date:   2013-07-01 19:45:31 +0530
+categories: blog
 ---
 Aqui estão as estatísticas do PhilBrasil correspondentes ao segundo trimestre de 2013. A tabela mostra o número de visitantes únicos e o número total de visitas por mês. Além desses dados, estão mais abaixo o número de buscas e o total de cliques em referências realizados no período.
 <table border="0" cellspacing="0"><colgroup width="92"></colgroup> <colgroup width="136"></colgroup> <colgroup width="85"></colgroup>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Kriterion e Manuscrito no PhilBrasil"
-date:   2016-03-30 19:45:31 +0530
-categories: science
-author: “Marcelo”
+date:   2013-01-13 19:45:31 +0530
+categories: blog
+author: "Marcelo Fishborn"
 ---
 Estão disponíveis no PhilBrasil as revistas de filosofia Manuscrito e Kriterion. Nem todos os artigos já foram categorizados, mas todos já é estão disponíveis nas buscas por autor, título ou nome da revista.
 

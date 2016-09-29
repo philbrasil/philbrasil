@@ -2,7 +2,7 @@
 layout: post
 title:  "Início do PhilBrasil"
 date:   2016-03-30 19:45:31 +0530
-categories: [“philosophy”, “filosofia”, “start”]
+categories: blog
 author: “Marcelo Fishborn“
 ---
 O PhilBrasil está começando a funcionar. Trata-se de um projeto de catalogação da filosofia disponível em português ou produzida por brasileiros. Seu funcionamento será baseado principalmente no rastreamento de periódicos nacionais reconhecidos, de traduções para o português de textos consagrados na literatura, e também em sugestões de trabalhos enviadas pelos visitantes do site.

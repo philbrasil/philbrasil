@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Filósofos brasileiros com repercussão internacional"
-date:   2016-03-30 19:45:31 +0530
-categories: phil
+date:   2013-03-12 19:45:31 +0530
+categories: blog
 ---
 Eis uma listagem provisória de filósofos brasileiros ou trabalhando no Brasil cujo trabalho teve repercussão a nível internacional:
 
