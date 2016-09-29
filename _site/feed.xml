@@ -3,10 +3,10 @@
   <channel>
     <title>PhilBrasil</title>
     <description>PhilBrasil é um acervo bibliográfico de Filosofia</description>
-    <link>https://philbrasil.github.io/philbrasil/</link>
-    <atom:link href="https://philbrasil.github.io/philbrasil/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Sep 2016 10:04:48 -0300</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2016 10:04:48 -0300</lastBuildDate>
+    <link>https://philbrasil.github.io/philbrasil/philbrasil/</link>
+    <atom:link href="https://philbrasil.github.io/philbrasil/philbrasil/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Sep 2016 10:14:55 -0300</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2016 10:14:55 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;A revista &lt;a href=&quot;http://revistaseletronicas.pucrs.br/ojs/index.php/veritas/index&quot;&gt;Veritas&lt;/a&gt;, do Programa de Pós-Graduação em Filosofia da PUC-RS, acaba de ser adicionada à base de dados do PhilBrasil. A Veritas tem Qualis A2. Com sua adição, o PhilBrasil passa a contar com mais de 2700 referências.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/veritas.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/veritas.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/veritas.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/veritas.html</guid>
         
         
         <category>phil</category>
@@ -27,8 +27,8 @@
         <description>&lt;p&gt;A revista &lt;a href=&quot;http://www.scientiaestudia.org.br/&quot;&gt;Scientiae Studia&lt;/a&gt;, publicação do Departamento de Filosofia da USP, acaba de ser incluída na base de dados do PhilBrasil. Com a sua inclusão, nosso acervo passa a contar com mais de duas mil referências. A Scientiae Studia tem Qualis A2 na Capes.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/scientia-studia.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/scientia-studia.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/scientia-studia.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/scientia-studia.html</guid>
         
         
         <category>phil</category>
@@ -42,8 +42,8 @@
 &lt;p&gt;Alguns dos artigos já foram vinculados às respectivas categorias, e outros ainda encontram-se na seção “Material não-categorizado”. Todos os artigos podem ser encontrados mediante buscas.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/principia.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/principia.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/principia.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/principia.html</guid>
         
         
         <category>phil</category>
@@ -57,8 +57,8 @@
 &lt;p&gt;A página &lt;a href=&quot;http://philbrasil.com.br/colaborar/&quot;&gt;Como colaborar&lt;/a&gt; manterá uma listagem permanente dos sites que ajudam nessa divulgação. Se seu site não está na lista, entre em contato com algum dos &lt;a href=&quot;http://philbrasil.com.br/equipe/&quot;&gt;editores&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/philnanet.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/philnanet.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/philnanet.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/philnanet.html</guid>
         
         
         <category>phil</category>
@@ -70,8 +70,8 @@
         <description>&lt;p&gt;A equipe do PhilBrasil vem alegremente anunciar que nosso banco de dados foi recentemente compartilhado com o portal internacional &lt;a title=&quot;PhilPapers&quot; href=&quot;http://philpapers.org&quot;&gt;PhilPapers&lt;/a&gt;. Com esse passo, as revistas brasileiras atualmente indexadas pelo PhilBrasil passam a ter maior visibilidade a nível internacional. Esperamos que isso possa trazer excelentes frutos para a comunidade filosófica brasileira.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/philbrasil.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/philbrasil.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/philbrasil.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/philbrasil.html</guid>
         
         
         <category>phil</category>
@@ -83,8 +83,8 @@
         <description>&lt;p&gt;A &lt;a title=&quot;Natureza Humana&quot; href=&quot;http://www.winnicottnaturezahumana.com.br/&quot;&gt;Natureza Humana&lt;/a&gt;, revista internacional de filosofia e psicanálise, acaba de ser incluída na base de dados do PhilBrasil. A Natureza Humana tem Qualis B1 e é uma publicação da Sociedade Brasileira de Fenomenologia e Sociedade Brasileira de Psicanálise Winnicottiana. Com mais este acréscimo, nossa base de dados conta com mais de 2.200 referências.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/natureza.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/natureza.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/natureza.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/natureza.html</guid>
         
         
         <category>phil</category>
@@ -100,8 +100,8 @@
 &lt;p&gt;A revista Kritetion é uma publicação da Faculdade de Filosofia e Ciências Humanas da UFMG, e tem Qualis A2 na classificação da Capes.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/science/2016/03/30/manuscrito.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/science/2016/03/30/manuscrito.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/science/2016/03/30/manuscrito.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/science/2016/03/30/manuscrito.html</guid>
         
         
         <category>science</category>
@@ -113,8 +113,8 @@
         <description>&lt;p&gt;Os últimos números das revistas Manuscrito e Principia foram incluídos no banco de dados do PhilBrasil. Enquanto não são categorizados, os artigos podem ser encontrados mediante buscas. Vale ressaltar que a tarefa de categorização dos artigos está sendo realizada permanentemente, sendo que quaisquer sugestões ou correções são muito bem-vindas.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/man-e-principia.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/man-e-principia.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/man-e-principia.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/man-e-principia.html</guid>
         
         
         <category>phil</category>
@@ -126,8 +126,8 @@
         <description>&lt;p&gt;A revista &lt;a href=&quot;http://www.sociedadekant.org/studiakantiana/&quot;&gt;Studia Kantiana&lt;/a&gt;, Revista da Sociedade Kant Brasileira, acaba de ser acrescentada ao banco de dados do PhilBrasil. A Studia Kantiana tem conceito B1 no Qualis-Capes.&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/phil/2016/03/30/kantiana.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/phil/2016/03/30/kantiana.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/kantiana.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/phil/2016/03/30/kantiana.html</guid>
         
         
         <category>phil</category>
@@ -140,8 +140,8 @@
 Vida longa e próspera ao PhilBrasil!&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/%E2%80%9Cphilosophy%E2%80%9D/%E2%80%9Cfilosofia%E2%80%9D/%E2%80%9Cstart%E2%80%9D/2016/03/30/inicio.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/%E2%80%9Cphilosophy%E2%80%9D/%E2%80%9Cfilosofia%E2%80%9D/%E2%80%9Cstart%E2%80%9D/2016/03/30/inicio.html</guid>
+        <link>https://philbrasil.github.io/philbrasil/philbrasil/%E2%80%9Cphilosophy%E2%80%9D/%E2%80%9Cfilosofia%E2%80%9D/%E2%80%9Cstart%E2%80%9D/2016/03/30/inicio.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/philbrasil/%E2%80%9Cphilosophy%E2%80%9D/%E2%80%9Cfilosofia%E2%80%9D/%E2%80%9Cstart%E2%80%9D/2016/03/30/inicio.html</guid>
         
         
         <category>“philosophy”</category>
