@@ -11,8 +11,8 @@ email: gilsonolegario@gmail.com
 description: PhilBrasil é um acervo bibliográfico de Filosofia
 baseurl: "/philbrasil" # the subpath of your site, e.g. /blog
 url: "https://philbrasil.github.io" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+github_username:  philbrasil
+facebook_username: portal.philbrasil
 
 # Build settings
 markdown: kramdown
