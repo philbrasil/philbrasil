@@ -5,22 +5,9 @@
     <description>PhilBrasil é um acervo bibliográfico de Filosofia</description>
     <link>https://philbrasil.github.io/philbrasil/</link>
     <atom:link href="https://philbrasil.github.io/philbrasil/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Sep 2016 11:12:25 -0300</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2016 11:12:25 -0300</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2016 11:28:29 -0300</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2016 11:28:29 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-    
-      <item>
-        <title>Revista Archai</title>
-        <description>&lt;p&gt;A revista &lt;a href=&quot;http://seer.bce.unb.br/index.php/archai/&quot; title=&quot;Archai&quot;&gt;Archai&lt;/a&gt;: Revista de Estudos sobre as Origens do Pensamento Ocidental acaba de ser indexada no PhilBrasil. Trata-se de “uma publicação semestral da Cátedra UNESCO Archai: As Origens do Pensamento Ocidental, grupo interdisciplinar e interinstitucional que congrega pesquisadores das áreas de filosofia, história, letras, direito e arqueologia de diversas instituições universitárias brasileiras”. A Archai tem Qualis B1.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Mar 2016 11:15:31 -0300</pubDate>
-        <link>https://philbrasil.github.io/philbrasil/blog/2016/03/30/Revista-Archai.html</link>
-        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/blog/2016/03/30/Revista-Archai.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
     
       <item>
         <title>Revista Ethic@</title>
@@ -152,6 +139,19 @@ Cliques: 24.856&lt;/p&gt;
         <pubDate>Fri, 24 May 2013 11:15:31 -0300</pubDate>
         <link>https://philbrasil.github.io/philbrasil/blog/2013/05/24/kantiana.html</link>
         <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/blog/2013/05/24/kantiana.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Revista Archai</title>
+        <description>&lt;p&gt;A revista &lt;a href=&quot;http://seer.bce.unb.br/index.php/archai/&quot; title=&quot;Archai&quot;&gt;Archai&lt;/a&gt;: Revista de Estudos sobre as Origens do Pensamento Ocidental acaba de ser indexada no PhilBrasil. Trata-se de “uma publicação semestral da Cátedra UNESCO Archai: As Origens do Pensamento Ocidental, grupo interdisciplinar e interinstitucional que congrega pesquisadores das áreas de filosofia, história, letras, direito e arqueologia de diversas instituições universitárias brasileiras”. A Archai tem Qualis B1.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Apr 2013 11:15:31 -0300</pubDate>
+        <link>https://philbrasil.github.io/philbrasil/blog/2013/04/23/Revista-Archai.html</link>
+        <guid isPermaLink="true">https://philbrasil.github.io/philbrasil/blog/2013/04/23/Revista-Archai.html</guid>
         
         
         <category>blog</category>
