@@ -428,6 +428,7 @@ pre {
       font-size: 36px; } }
 
 .post-content {
+  text-align: justify;
   margin-bottom: 30px;
   padding-bottom: 3em !important; }
   .post-content p {
